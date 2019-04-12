@@ -16,5 +16,5 @@ At the end the Classifier which gives the maximum accuracy is specified along wi
 
 Results
 
-It can be inferred from the table that the Random Forest Classifier gives the best accuracy of aroung 95.7% followed by Suppor Vector Classifier(SVC).Tweaking the hyperparameters of the Random Forest Classifier changes the acuracy by around 0.2%.
+It can be inferred from the table that the Random Forest Classifier gives the best accuracy of around 95.7% followed by Support Vector Classifier(SVC).Tweaking the hyperparameters of the Random Forest Classifier changes the acuracy by around 0.2%.
 Moreover since the dataset is randomly shuffled at the begining to jumble the rows depicting spam and not spam each run of the code might result in a slightly differeny max accuracy of +-0.2%(this can be inferred from multiple execution of the code).
